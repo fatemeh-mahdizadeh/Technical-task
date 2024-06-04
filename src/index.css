@@ -1,0 +1,14 @@
+/* import tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    /* import Persian font */
+    font-family: 'Vazir', 'sans-serif' !important;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
